@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "103779446011",
+    "firebase_url": "https://chat-flutter-3cc6f.firebaseio.com",
+    "project_id": "chat-flutter-3cc6f",
+    "storage_bucket": "chat-flutter-3cc6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103779446011:android:c7e80acaf4b057c115545e",
+        "android_client_info": {
+          "package_name": "br.com.morvy.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103779446011-4p2ivuu90pbpogols8q72ql66hmamhof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.morvy.chat",
+            "certificate_hash": "6df3daf8ff2dbd5c7db63d4f26587653e6b637c1"
+          }
+        },
+        {
+          "client_id": "103779446011-ih57u62c51ksi6iis2b8gg0927q9iq51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANmqS4p4S-hMRnawL6BGho2pQeJ9I--AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103779446011-ih57u62c51ksi6iis2b8gg0927q9iq51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
